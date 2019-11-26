@@ -85,8 +85,7 @@
 	
 	<distributionManagement>
 	    <snapshotRepository>
-		<id>artifactory</id>
-		<name>ip-13-233-216-246.ap-south-1.compute.internal-snapshots</name>
+		<id>nexus</id>
 		<url>http://13.233.216.246:8083/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
